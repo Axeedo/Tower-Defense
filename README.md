@@ -10,11 +10,14 @@ This project is a Tower Defense game made in c++.
 
 We used Visual Studio as our development IDE. SDL has development libraries made specifically for it.
 
-To build the project, **make sure to add the include folder in the project's include directories** if you are using Visual Studio.
-And **make sure the dependencies (see bellow) are added as well**.
+To build the project, **make sure the src/include folder is in the project's include directories** if you are using Visual Studio.
+
+And **make sure to add your own dependencies path (see bellow)**.
+
 
 
 ## Dependencies
+
 We will mainly rely on SDL2 to build this game. So for now, SDL2 libraries are the only dependencies needed to build the project.
 
 Additional libraries include the peripheral libraries that comes with SDL2.
@@ -28,6 +31,7 @@ SDL2_mixer
 SDL2_ttf
 
 SDL2_net
+
 
 Make sure to add them to Visual Studio's project dependencies.
 

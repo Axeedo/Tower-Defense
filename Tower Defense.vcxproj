@@ -78,12 +78,12 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>E:\Dev\C++\VS_cpp\Tower Defense\src\include;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2-2.0.14\include;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2_ttf-2.0.15\include;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2_mixer-2.0.4\include;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2_image-2.0.5\include;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2_net-2.0.1\include;$(IncludePath)</IncludePath>
+    <IncludePath>E:\Dev\C++\VS_cpp\Tower-Defense\src\include;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2-2.0.14\include;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2_ttf-2.0.15\include;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2_mixer-2.0.4\include;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2_image-2.0.5\include;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2_net-2.0.1\include;$(IncludePath)</IncludePath>
     <LibraryPath>E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2-2.0.14\lib\x64;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2_mixer-2.0.4\lib\x64;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2_ttf-2.0.15\lib\x64;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2_image-2.0.5\lib\x64;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2_net-2.0.1\lib\x64;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
-    <IncludePath>E:\Dev\C++\VS_cpp\Tower Defense\src\include;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2-2.0.14\include;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2_ttf-2.0.15\include;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2_mixer-2.0.4\include;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2_image-2.0.5\include;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2_net-2.0.1\include;$(IncludePath)</IncludePath>
+    <IncludePath>E:\Dev\C++\VS_cpp\Tower-Defense\src\include;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2-2.0.14\include;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2_ttf-2.0.15\include;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2_mixer-2.0.4\include;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2_image-2.0.5\include;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2_net-2.0.1\include;$(IncludePath)</IncludePath>
     <LibraryPath>E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2-2.0.14\lib\x64;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2_mixer-2.0.4\lib\x64;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2_ttf-2.0.15\lib\x64;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2_image-2.0.5\lib\x64;E:\Dev\C++\1-libraries\SDL\VS_SDL\SDL2_net-2.0.1\lib\x64;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
